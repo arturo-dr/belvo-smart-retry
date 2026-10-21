@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+# OS and tools
+.DS_Store
+.gstack/
+.streamlit/secrets.toml
+# Kept out of the repo (it may be shared with Belvo)
+data/
+prep/
+belvo-context.md
+belvo-challenge.md
+*.pdf
