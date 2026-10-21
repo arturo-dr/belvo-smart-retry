@@ -6,7 +6,6 @@ __pycache__/
 .DS_Store
 .gstack/
 .streamlit/secrets.toml
-# Kept out of the repo (it may be shared with Belvo)
 data/
 prep/
 belvo-context.md
