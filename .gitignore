@@ -6,7 +6,9 @@ __pycache__/
 .DS_Store
 .gstack/
 .streamlit/secrets.toml
-data/
+data/*
+!data/PaymentsPM_Challenge_loan_info.csv
+!data/PaymentsPM_Challenge_payment_requests.csv
 prep/
 belvo-context.md
 belvo-challenge.md
